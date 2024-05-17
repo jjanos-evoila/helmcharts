@@ -7,7 +7,7 @@ entries:
           description: "Support setting Service's externalIPs."
     apiVersion: v1
     appVersion: 3.0.3
-    created: "2024-05-17T15:16:47.044397+02:00"
+    created: "2024-05-17T16:02:57.955131+02:00"
     description: Fast and lightweight log processor and forwarder or Linux, OSX and
       BSD family operating systems.
     digest: 82716c325e97e9bcbcbc776d30f70d4f6d95b61b330727472b4add90b030c6fd
@@ -30,6 +30,6 @@ entries:
     sources:
     - https://github.com/fluent/fluent-bit/
     urls:
-    - https://github.com/jjanos-evoila/helmcharts/fluent-bit-0.46.5.tgz
+    - https://jjanos-evoila.github.io/helmcharts/fluent-bit-0.46.5.tgz
     version: 0.46.5
-generated: "2024-05-17T15:16:47.042928+02:00"
+generated: "2024-05-17T16:02:57.95362+02:00"
