@@ -8,3 +8,6 @@
 - push changes to git repo
 - helm repo add <repo-name> <github page url>/<path-to-charts-folder>
 - helm repo udpate <repo-name>
+
+## Links
+https://www.opcito.com/blogs/creating-helm-repository-using-github-pages
